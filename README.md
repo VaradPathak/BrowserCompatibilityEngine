@@ -3,6 +3,7 @@ BrowserCompatibilityEngine
 
 This simple java program converts your existing IE 6 compatible JSP and Javascript code to IE 9,  Mozzila 18 compatible code.
 This is achieved by making the existing code W3C compliant by using simple functions provided by JQuery.
+Features provided by Browser Compatibility Engine
 
 -          Search for all JSP files from the parent folder to all the subfolders
 
@@ -32,7 +33,6 @@ Functions  implemented till now:
 
 -          Correct/replace <script> tag with <script type="text/javascript">
 
-·          Add the following init part to every JSP except the init_body.jsp. This Init part is modifiable as it is read from another jsp called init.jsp stored at different location.
+-          Add the following init part to every JSP except the init_body.jsp. This Init part is modifiable as it is read from another jsp called init.jsp stored at different location.
 
-·         Handled multiline comments.
-
+-          Handled multiline comments.
