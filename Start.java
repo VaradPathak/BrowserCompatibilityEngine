@@ -1,5 +1,6 @@
 /**
- * 
+ * The Browser Compatibility Engine
+ * To convert the existing code into a multi browser compatible code using W3C Standards.
  */
 package compatibilityEngine;
 
@@ -18,7 +19,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author 228223
+ * @author Varad Pathak
  * 
  */
 public class Start {
