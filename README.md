@@ -41,5 +41,3 @@ Functions  implemented till now:
             This Init part is modifiable as it is read from another jsp called init.jsp stored at different location.
 
 -          Handled multiline comments.
-
--	   Fake changes.
